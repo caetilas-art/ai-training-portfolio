@@ -60,6 +60,10 @@ This portfolio will include an original demonstration project designed to showca
 
 The project will simulate a real-world evaluation task using fictional examples created exclusively for this portfolio.
 
+### 🔗 View the Project
+
+👉 [Click here to view the AI Response Evaluation Demonstration](./ai-response-evaluation-demo.md)
+
 ### Evaluation Criteria
 
 Responses will be evaluated based on:
